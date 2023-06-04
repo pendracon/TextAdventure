@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# IDEs
+.vscode/
+.kdev4/
+*.kdev4
+
+# Misc
+bin/
+tmp/
